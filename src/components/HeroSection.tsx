@@ -9,11 +9,11 @@ export const HeroSection = () => {
      <div
   className="absolute inset-0 bg-cover bg-center"
   style={{
-    backgroundImage: "url('/hero.png')",
+    backgroundImage: "url('/hero.webp')",
   }}
 ></div>
 
-      <div className="absolute inset-0 bg-white/30 dark:bg-black/50 z-10"></div>
+      <div className="absolute inset-0 bg-white/30 dark:bg-black/30 z-10"></div>
 
 
       <div className="relative z-20 min-h-[90vh] flex flex-col items-center justify-center px-4 sm:px-6 lg:px-8">

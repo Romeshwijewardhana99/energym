@@ -6,8 +6,8 @@ export const TrainersSection = () => {
     {
       name: 'Madhushan Chandrasena',
       role: 'Head Trainer',
-      bio: 'Certified personal trainer with 10+ years of experience specializing in strength training and weight loss.',
-      image: '/madhushan.webp',
+      bio: 'Certified personal trainer with 4+ years of experience specializing in strength training and weight loss.',
+      image: '/madhushan.jpg',
       social: {
         instagram: 'https://www.instagram.com/madhushanchandrasena?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
         facebook: 'https://www.facebook.com/madushanchandrasena',

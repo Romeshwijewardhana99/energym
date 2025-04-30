@@ -20,7 +20,7 @@ export const AboutSection = () => {
               achieve their personal health and wellness goals.
             </p>
             <p className="text-gray-700 dark:text-gray-300 mb-6 text-lg">
-              Founded in 2015, our gym has grown into a community of dedicated
+              Founded in 2022, our gym has grown into a community of dedicated
               fitness enthusiasts and professionals who support each other on
               their fitness journeys.
             </p>

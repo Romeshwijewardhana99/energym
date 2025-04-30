@@ -10,7 +10,7 @@ export const Footer = () => {
           <div>
           <span className="text-xl font-bold">
               <span className="text-[#f04343]">ENER</span>
-              <span className="text-gray-900 dark:text-white">GYM</span>
+              <span className=" dark:text-white">GYM</span>
             </span>
             <p className="text-gray-400 mb-4">
               Transforming lives through fitness. Join our community and start

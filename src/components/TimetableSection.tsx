@@ -202,7 +202,7 @@ export const TimetableSection = () => {
           {/* <p className="text-gray-700 dark:text-gray-300 max-w-3xl mx-auto">
             Check out our weekly schedule of classes and plan your workout
             routine.
-          </p> */}<p className="text-blue-200">
+          </p> */}<p className="text-blue-600">
                   *Time Table will be Available hear soon.
                 </p>
         </div>
